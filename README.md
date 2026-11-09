@@ -1,3 +1,5 @@
+# Geovani Torres
+
 ## Summary
 Data & Analytics professional with an Economics background and MBA, specialized in business intelligence, KPI frameworks and decision-oriented reporting. Transform financial and operational data into clear Power BI, Tableau and HTML dashboards. Use GitHub Copilot to accelerate analysis, drafting and documentation, with Claude Code adoption underway.
 
